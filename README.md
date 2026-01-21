@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 About Me<br><br>I'm a Computer Engineering student who loves building things from scratch 🛠️<br>Currently exploring web apps, real-time systems, and open-source projects.<br>I enjoy learning by understanding how things work, not just copying code.<br><br>💻 Working with FastAPI, WebSockets, React, Svelte<br><br>🎤 Building a self-hosted karaoke system<br><br>🚀 Always curious, always experimenting
 
 
