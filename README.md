@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I'm a Computer Engineering graduate who loves building things from scratch 🛠️<br>Currently exploring web apps, real-time systems, and open-source projects.<br>I enjoy learning by understanding how things work, not just copying code.<br><br>💻 Working with FastAPI, WebSockets, React, Svelte<br><br>🎤 Building a self-hosted karaoke system<br><br>🚀 Always curious, always experimenting
+Hi, I'm a Computer Engineering graduate who loves building things from scratch 🛠️<br>Currently exploring web apps, real-time systems, IoT and open-source projects.<br>I enjoy learning by understanding how things work, slowly building abstractions.<br><br>💻 Working with FastAPI, WebSockets, React & currently learning UI/UX<br><br>🚀 Always curious, always experimenting. Stay Classy.
 
 
 ## 🌐 Socials:
